@@ -1,2 +1,5 @@
 # h5-to-xyz-converter-
-.py script to convert h5 file format into readable .xyz files
+
+
+This .py enables direct conversion between a .h5 file to a .xyz file.
+Main usage: crating readable files for ovito.
